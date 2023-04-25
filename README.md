@@ -25,7 +25,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2021-09-23 |  online | Bogdan Burlacu |  #M28: Scientific Machine Learning |  |
 | 2021-09-23 |  online | Patrick Hynds, Ciprian Jichici | #M27: An Introduction to Quantum Computing and Applied Learning |  |
 | 2021-07-21 |  online | Dacian Stroia, Eitan Netzer, Alexandru Iliescu | #M26: Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL |  |
-| 2021-07-07 |  online | Iulia Duta, Andrei Nicolicioiu  | #M25: Introduction to Graph Neural Networks | [pdf](./Meetups/M25/Intro to Graph Neural Networks.pdf) |
+| 2021-07-07 |  online | Iulia Duta, Andrei Nicolicioiu  | #M25: Introduction to Graph Neural Networks | [pdf](./Meetups/M25/Intro_to_Graph_Neural_Networks.pdf) |
 | 2021-04-15 |  online | Andrei Hera  | #M24: Pie&AI - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |  |
 | 2020-12-15 |  online | Bastiaan Veeling, Olivier Teytaud, Danielle S. Bassett  | #M23: NeurIPS meetup#2: Beyond Backprop-Novel Ideas for Training Neural Architectures |  |
 | 2020-12-11 |  online | Thibaud Rahier, Laurent Meunier | #M22: Les Déjeuners NeurIPS #5: Analog Adversarial Robustness and Optimization |  |
@@ -38,7 +38,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2020-11-05 |  online | Robert Maria, Titus Nicolae| #M15: Pie & AI: Strasbourg - Autoencoders and Variational Autoencoders | [pdf](./Meetups/M15/ae.pdf) |
 | 2020-09-24 |  online | Robert Maria | #M14: Introduction to Deep Generative Models | [pdf](./Meetups/M14/introd_to_generative.pdf) |
 | 2020-06-25 |  online | Claudiu Vintila| #M13: Pie & AI Strasbourg: Deploying your neural network in the cloud | [code](./Meetups/M13/) |
-| 2020-05-29 |  online | Laurence Jennings| #M12: Natural Language Processing: from word embeddings to transformers | [pdf](./Meetups/M15/From word embeddings to transformers.pdf) |
+| 2020-05-29 |  online | Laurence Jennings| #M12: Natural Language Processing: from word embeddings to transformers | [pdf](./Meetups/M15/From_word_embeddings_to_transformers.pdf) |
 | 2020-04-17 |  online | Vinkle Kumar | #M11: Visualization and understanding of deep neural networks | [pdf](./Meetups/M15/ae.pdf) |
 | 2020-02-13 |  10 Rue de Châtenois | Robert Maria | #M10: Object detection with deep learning |  |
 | 2020-01-15 |  19 Rue de Dunkerque | Markus Hartinger | #M9: Introduction to explainability in deep learning |  |
