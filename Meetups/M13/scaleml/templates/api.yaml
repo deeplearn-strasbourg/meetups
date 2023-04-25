@@ -1,0 +1,66 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "scaleml.fullname" . }}-api
+  labels:
+{{ include "scaleml.labels" . | indent 4 }}
+spec:
+  replicas: {{ .Values.api.replicaCount }}
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: {{ include "scaleml.name" . }}-api
+      app.kubernetes.io/instance: {{ .Release.Name }}
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: {{ include "scaleml.name" . }}-api
+        app.kubernetes.io/instance: {{ .Release.Name }}
+    spec:
+    {{- with .Values.imagePullSecrets }}
+      imagePullSecrets:
+        {{- toYaml . | nindent 8 }}
+    {{- end }}
+      containers:
+        - name: {{ .Chart.Name }}-api
+          image: {{ .Values.api.image.repository }}:{{ .Values.api.image.tag }}
+          imagePullPolicy: {{ .Values.api.image.pullPolicy }}
+          ports:
+            - name: http
+              containerPort: 80
+              protocol: TCP
+          env:
+            - name: RABBITMQ_HOST
+              value: {{ .Values.rabbitmq.host }}
+            - name: RABBITMQ_USER
+              value: {{ .Values.rabbitmq.user }}
+            - name: RABBITMQ_PASS
+              value: {{ .Values.rabbitmq.pass }}
+            - name: API_EXCHANGE
+              value: {{ .Values.api.apiExchange }}
+            - name: API_QUEUE
+              value: {{ .Values.api.apiQueue }}
+            - name: WORKER_EXCHANGE
+              value: {{ .Values.worker.workerExchange }}
+            - name: WORKER_QUEUE
+              value: {{ .Values.worker.workerQueue }}
+          resources:
+            {{- toYaml .Values.resources | nindent 12 }}
+          volumeMounts:
+            - mountPath: "/var/www/html/models"
+              name: {{ include "scaleml.name" . }}-pvc
+      volumes:
+        - name: {{ include "scaleml.name" . }}-pvc
+          persistentVolumeClaim:
+            claimName: {{ include "scaleml.name" . }}-pvc
+      {{- with .Values.nodeSelector }}
+      nodeSelector:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+    {{- with .Values.affinity }}
+      affinity:
+        {{- toYaml . | nindent 8 }}
+    {{- end }}
+    {{- with .Values.tolerations }}
+      tolerations:
+        {{- toYaml . | nindent 8 }}
+    {{- end }}

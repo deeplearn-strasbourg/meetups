@@ -1,0 +1,12 @@
+FROM claudiuvintila/scaleml-base:v1
+
+
+
+COPY ml /var/www/html/ml
+COPY rabbitmq_util /var/www/html/rabbitmq_util
+COPY api.py /var/www/html/api.py
+
+
+WORKDIR /var/www/html
+EXPOSE 80
+CMD ["python", "api.py"]

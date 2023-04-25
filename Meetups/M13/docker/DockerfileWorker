@@ -1,0 +1,11 @@
+FROM claudiuvintila/scaleml-base:v1
+
+
+
+COPY ml /var/www/html/ml
+COPY rabbitmq_util /var/www/html/rabbitmq_util
+COPY worker.py /var/www/html/worker.py
+
+
+WORKDIR /var/www/html
+CMD ["python", "worker.py"]

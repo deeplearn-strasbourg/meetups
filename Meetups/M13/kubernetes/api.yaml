@@ -1,0 +1,56 @@
+# Source: scaleml/templates/api.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scaleml-api
+  labels:
+    app.kubernetes.io/name: scaleml
+    helm.sh/chart: scaleml-0.1.0
+    app.kubernetes.io/instance: scaleml
+    app.kubernetes.io/version: "1.0"
+    app.kubernetes.io/managed-by: Tiller
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: scaleml-api
+      app.kubernetes.io/instance: scaleml
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: scaleml-api
+        app.kubernetes.io/instance: scaleml
+    spec:
+      containers:
+        - name: scaleml-api
+          image: claudiuvintila/scaleml-api:v1
+          imagePullPolicy: Always
+          ports:
+            - name: http
+              containerPort: 80
+              protocol: TCP
+          env:
+            - name: RABBITMQ_HOST
+              value: rabbitmq
+            - name: RABBITMQ_USER
+              value: user
+            - name: RABBITMQ_PASS
+              value: pass
+            - name: API_EXCHANGE
+              value: api_exchange
+            - name: API_QUEUE
+              value: api_queue
+            - name: WORKER_EXCHANGE
+              value: worker_exchange
+            - name: WORKER_QUEUE
+              value: worker_queue
+          resources:
+            {}
+
+          volumeMounts:
+            - mountPath: "/var/www/html/models"
+              name: scaleml-pvc
+      volumes:
+        - name: scaleml-pvc
+          persistentVolumeClaim:
+            claimName: scaleml-pvc

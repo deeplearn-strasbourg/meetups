@@ -1,0 +1,20 @@
+# Source: scaleml/templates/ingress.yaml
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: scaleml
+  labels:
+    app.kubernetes.io/name: scaleml
+    helm.sh/chart: scaleml-0.1.0
+    app.kubernetes.io/instance: scaleml
+    app.kubernetes.io/version: "1.0"
+    app.kubernetes.io/managed-by: Tiller
+spec:
+  rules:
+    - host: "scaleml.demo"
+      http:
+        paths:
+          - path: /
+            backend:
+              serviceName: scaleml-api
+              servicePort: http
