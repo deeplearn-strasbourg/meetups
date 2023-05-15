@@ -20,6 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2023-05-13 |  La Plage Digitale | Robert Maria | #M31: Écrire votre premier modèle deep learning pour classifier les chiens, les chats | [code](./Meetups/M31/classifier_dogs_cats.ipynb) |
 | 2023-04-15 |  Les Compotes Café | Robert Maria | #M30: Introduction à l'intelligence artificielle et au deep learning | [pdf](./Meetups/M30/meetup_stras_introd.pdf) |
 | 2021-06-01 |  online | Vinkle Kumar | #M29: Unsupervised Domain Adaptation Approaches for Person Localization in the operating room |  |
 | 2021-09-23 |  online | Bogdan Burlacu |  #M28: Scientific Machine Learning |  |
