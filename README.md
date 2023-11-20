@@ -20,7 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2023-10-14 |  La Plage Digitale | Robert Maria  | #M34: Comment analyser des documents textuels avec OpenAI GPT | [code] (./Meetups/M34/scrape_analyze_news_websites.js) |
+| 2023-10-14 |  La Plage Digitale | Robert Maria  | #M34: Comment analyser des documents textuels avec OpenAI GPT | [code](./Meetups/M34/scrape_analyze_news_websites.js) |
 | 2023-07-22 |  La Plage Digitale | Robert Maria et Mounir Bendali-Braham | #M33: Introduction à la rétropropagation p.2 |  |
 | 2023-06-17 |  Les Compotes Café | Robert Maria et Mounir Bendali-Braham | #M32: Introduction à la rétropropagation et à la descente de gradient stochastique |  |
 | 2023-05-13 |  La Plage Digitale | Robert Maria | #M31: Écrire votre premier modèle deep learning pour classifier les chiens, les chats | [code](./Meetups/M31/classifier_dogs_cats.ipynb) |
