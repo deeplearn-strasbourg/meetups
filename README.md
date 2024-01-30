@@ -28,8 +28,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2023-06-17 |  Les Compotes Café | Robert Maria et Mounir Bendali-Braham | #M32: Introduction à la rétropropagation et à la descente de gradient stochastique |  |
 | 2023-05-13 |  La Plage Digitale | Robert Maria | #M31: Écrire votre premier modèle deep learning pour classifier les chiens, les chats | [code](./Meetups/M31/classifier_dogs_cats.ipynb) |
 | 2023-04-15 |  Les Compotes Café | Robert Maria | #M30: Introduction à l'intelligence artificielle et au deep learning | [pdf](./Meetups/M30/meetup_stras_introd.pdf) |
-| 2021-06-01 |  online | Vinkle Kumar | #M29: Unsupervised Domain Adaptation Approaches for Person Localization in the operating room |  |
-| 2021-09-23 |  online | Bogdan Burlacu |  #M28: Scientific Machine Learning |  |
+| 2022-06-01 |  online | Vinkle Kumar | #M29: Unsupervised Domain Adaptation Approaches for Person Localization in the operating room |  |
+| 2022-03-16 |  online | Bogdan Burlacu |  #M28: Scientific Machine Learning |  |
 | 2021-09-23 |  online | Patrick Hynds, Ciprian Jichici | #M27: An Introduction to Quantum Computing and Applied Learning |  |
 | 2021-07-21 |  online | Dacian Stroia, Eitan Netzer, Alexandru Iliescu | #M26: Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL |  |
 | 2021-07-07 |  online | Iulia Duta, Andrei Nicolicioiu  | #M25: Introduction to Graph Neural Networks | [pdf](./Meetups/M25/Intro_to_Graph_Neural_Networks.pdf) |
