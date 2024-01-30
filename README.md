@@ -20,7 +20,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2023-12-02 |  La Plage Digitale | François Weber  | #M36: "Comment fonctionne un moteur de recherche web ? Un bon cas d'utilisation pour le learning to rank | [pdf](./Meetups/M36/meetup_2023_LTR2.pdf) |
+| 2024-01-20 |  Les Compotes Café | Mounir Bendali-Braham  | #M37: "Annotation d'images avec l'Intelligence Artificielle" | [pdf](./Meetups/M37/Image_captioning.pdf) |
+| 2023-12-02 |  La Plage Digitale | François Weber  | #M36: "Comment fonctionne un moteur de recherche web ? Un bon cas d'utilisation pour le learning to rank" | [pdf](./Meetups/M36/meetup_2023_LTR2.pdf) |
 | 2023-11-11 |  La Plage Digitale | Laurence Jennings  | #M35: Automatiser les tâches LLM avec Langchain et GPT | [code](./Meetups/M35/langchain_web_scraper.ipynb) |
 | 2023-10-14 |  La Plage Digitale | Robert Maria  | #M34: Comment analyser des documents textuels avec OpenAI GPT | [code](./Meetups/M34/scrape_analyze_news_websites.js) |
 | 2023-07-22 |  La Plage Digitale | Robert Maria et Mounir Bendali-Braham | #M33: Introduction à la rétropropagation p.2 |  |
