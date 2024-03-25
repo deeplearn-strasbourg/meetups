@@ -20,6 +20,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2024-03-23 |  Les Compotes Café | Robert Maria | #M39: "Méthodes Avancées en Segmentation d'Images" | [pdf](./Meetups/M39/Segmentation.pdf) |
+| 2024-02-17 |  La Plage Digitale | Gilles PFOTZER  | #M38: "Rencontre avec l’Intelligence Artificielle" |  |
 | 2024-01-20 |  Les Compotes Café | Mounir Bendali-Braham  | #M37: "Annotation d'images avec l'Intelligence Artificielle" | [pdf](./Meetups/M37/Image_captioning.pdf) |
 | 2023-12-02 |  La Plage Digitale | François Weber  | #M36: "Comment fonctionne un moteur de recherche web ? Un bon cas d'utilisation pour le learning to rank" | [pdf](./Meetups/M36/meetup_2023_LTR2.pdf) |
 | 2023-11-11 |  La Plage Digitale | Laurence Jennings  | #M35: Automatiser les tâches LLM avec Langchain et GPT | [code](./Meetups/M35/langchain_web_scraper.ipynb) |
