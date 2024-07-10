@@ -20,6 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2024-06-29 |  La Plage Digitale | Robert Maria | #M41: "Présentation des Modèles Mamba et Jamba" | [pdf](./Meetups/M41/) |
 | 2024-05-18 |  La Plage Digitale | François Weber | #M40: "Fine tuning rapide de +70B paramètres : les méthodes "parameter efficient" | [pdf et code](./Meetups/M40/) |
 | 2024-03-23 |  Les Compotes Café | Robert Maria | #M39: "Méthodes Avancées en Segmentation d'Images" | [pdf](./Meetups/M39/Segmentation.pdf) |
 | 2024-02-17 |  La Plage Digitale | Gilles PFOTZER  | #M38: "Rencontre avec l’Intelligence Artificielle" |  |
