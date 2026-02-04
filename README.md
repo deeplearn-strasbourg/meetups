@@ -20,7 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2026-01-31 | Digital Village | Laura Martel | #M47: "Introduction and Hands-on: AI Agents with Gemini SDK" |[pdf](./Meetups/M47.) |
+| 2026-01-31 | Digital Village | Laura Martel | #M47: "Introduction and Hands-on: AI Agents with Gemini SDK" |[pdf](./Meetups/M47/) |
 | 2025-11-29 |  Digital Village | video Jeremy Howard | #M46: "Build an AI Agent - with code" | |
 | 2025-06-28 |  La Plage Digitale | book Sebastian Raschka  | #M45: "Build an LLM from Scratch" | |
 | 2025-05-24 |  La Plage Digitale | video Andrej Karpathy | #M44: "Hands-on Session - Building GPT from Scratch! PART 2" |  |
