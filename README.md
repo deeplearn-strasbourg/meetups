@@ -20,6 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2026-03-14 | Digital Village | Badeba Frantz ADJASSIN | #M49: "MCP Servers et Agents IA " |[pdf](./Meetups/M49/) |
 | 2026-02-28 | Digital Village | Julien BRODIER | #M48: "Sandboxing pour Agents IA – du conteneur Docker à la MicroVM Firecracker" |[pdf](./Meetups/M48/) |
 | 2026-01-31 | Digital Village | Laura MARTEL | #M47: "Introduction and Hands-on: AI Agents with Gemini SDK" |[pdf](./Meetups/M47/) |
 | 2025-11-29 |  Digital Village | video Jeremy Howard | #M46: "Build an AI Agent - with code" | |
