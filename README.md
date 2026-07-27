@@ -20,6 +20,12 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2026-07-25 | Digital Village |   #M54: "Julien Brodier   : Graph/RAG & NeSy AI : du doc brut au raisonnement" |
+| 2026-06-27 | Digital Village |   #M53: "Mathieu Cordebard   : Donner sa langue au "chat"" |
+| 2026-05-27 | Digital Village |   #M52: "Léandre Le Bizec   : DUST : Deploying AI Agents Day-to-Day" |
+| 2026-05-21 | The Nest |   #M51: "Teodora Djikic-Stojsic, Emil Sayilov, Anjila Ben Frej  : AI For Chemistry - Build an LLM with agents for Chemistry " |
+| 2026-04-25 | Digital Village |   #M51: "Sonny Mupfuni : Créez des agents IA avec Google ADK " |
+| 2026-04-11 | Digital Village |   #M50: "Raphael Antoine : Augmenter la confiance pour diminuer la surveillance " | 
 | 2026-03-14 | Digital Village | Badeba Frantz ADJASSIN | #M49: "MCP Servers et Agents IA " |[pdf](./Meetups/M49/) |
 | 2026-02-28 | Digital Village | Julien BRODIER | #M48: "Sandboxing pour Agents IA – du conteneur Docker à la MicroVM Firecracker" |[pdf](./Meetups/M48/) |
 | 2026-01-31 | Digital Village | Laura MARTEL | #M47: "Introduction and Hands-on: AI Agents with Gemini SDK" |[pdf](./Meetups/M47/) |
