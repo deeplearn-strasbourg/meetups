@@ -20,7 +20,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2026-07-25 | Digital Village | Julien Brodier | #M55: "Graph/RAG & NeSy AI : du doc brut au raisonnement" |
+| 2026-07-25 | Digital Village | Julien Brodier | #M55: "Graph/RAG & NeSy AI : du doc brut au raisonnement" | [pdf](./Meetups/M55/meetup_graphrag_20260725.pdf) |
 | 2026-06-27 | Digital Village | Mathieu Cordebard | #M54: "Donner sa langue au "chat"" |
 | 2026-05-27 | Digital Village | Léandre Le Bizec  |  #M53: "DUST:Deploying AI Agents Day-to-Day" |
 | 2026-05-21 | The Nest | Teodora Djikic-Stojsic, Emil Sayilov, Anjila Ben Frej | #M52: "AI For Chemistry - Build an LLM with agents for Chemistry " |
