@@ -1,3 +1,4 @@
+
 # Strasbourg Deep Learning Meetup
 ## Intro
 
@@ -20,6 +21,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | Place | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2026-08-08 | Digital Village | Youri Durand, Fadi Sultan, Julien Brodier | #M56: "Lea Learn : EdTech Agents" |  |
+| 2026-08-02 | Fabéon | hackathon | #M56: "RobotKraft" |  |
 | 2026-07-25 | Digital Village | Julien Brodier | #M55: "Graph/RAG & NeSy AI : du doc brut au raisonnement" | [pdf](./Meetups/M55/meetup_graphrag_20260725.pdf) |
 | 2026-06-27 | Digital Village | Mathieu Cordebard | #M54: "Donner sa langue au "chat"" |
 | 2026-05-27 | Digital Village | Léandre Le Bizec  |  #M53: "DUST:Deploying AI Agents Day-to-Day" |
